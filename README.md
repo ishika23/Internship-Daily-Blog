@@ -77,8 +77,8 @@ SSIS stands for SQL Server Integration Service. For its implementation we were m
 - Integration Services can extract and transform data from a wide variety of sources such as XML data files, flat files, and relational data sources, and then load the data into one or more destinations.
 - SSIS tool also contains the graphical tools and window wizards workflow functions such as sending email messages, ftp operations, data sources.
 - SSIS is a tool mainly used to perform two functionalities:
--- Data Integration - SSIS performs data integration by combining the data from multiple sources and provides unified data to the users.
--- Workflow -  It can be used to automate the maintenance of SQL Server databases and provides the update to the multidimensional analytical data.
+  * Data Integration - SSIS performs data integration by combining the data from multiple sources and provides unified data to the users.
+  * Workflow -  It can be used to automate the maintenance of SQL Server databases and provides the update to the multidimensional analytical data.
 
 
 
