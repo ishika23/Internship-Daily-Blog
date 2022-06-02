@@ -72,6 +72,12 @@ Advanced concept of SQL like stored procedure, functions, triggers and cursors w
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **21th March to 25th March**
+## Assignment 
+In this week we were given an assignment based on SQL and SQL server. There were 5 Seperate assignments which we had to solve in a weeks time and submit the same. Evaluation on basis of assignment was done. Apart from that I also had assessment in this week related to previous taught topics. 
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**28th March to 1nd April**
 ## SSIS
 SSIS stands for SQL Server Integration Service. For its implementation we were made to install Visual Studio. 
 - Integration Services can extract and transform data from a wide variety of sources such as XML data files, flat files, and relational data sources, and then load the data into one or more destinations.
@@ -79,3 +85,9 @@ SSIS stands for SQL Server Integration Service. For its implementation we were m
 - SSIS is a tool mainly used to perform two functionalities:
   * Data Integration - SSIS performs data integration by combining the data from multiple sources and provides unified data to the users.
   * Workflow -  It can be used to automate the maintenance of SQL Server databases and provides the update to the multidimensional analytical data.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**4th April to 8th April**
+## SSAS
+
