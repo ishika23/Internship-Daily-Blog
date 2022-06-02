@@ -57,17 +57,17 @@ Various concepts regarding unix and shell scripting were told. Practice question
 **14th March to 18th March**
 ## SQL Server 
 Advanced concept of SQL like stored procedure, functions, triggers and cursors were taught in this week. Downloaded Microsoft SQL server and learnt how to operate it. 
-#### - Stored Procedure
-* A stored procedure in SQL is a group of SQL statements that are stored together in a database. Based on the statements in the procedure and the parameters you pass, it can perform one or multiple DML operations on the database, and return value, if any.
+#### Stored Procedure
+- A stored procedure in SQL is a group of SQL statements that are stored together in a database. Based on the statements in the procedure and the parameters you pass, it can perform one or multiple DML operations on the database, and return value, if any.
 
-#### - Triggers
-* A SQL trigger is a database object which fires when an event occurs in a database. We can execute a SQL query that will "do something" in a database when a change occurs on a database table such as a record is inserted or updated or deleted.
+#### Triggers
+- A SQL trigger is a database object which fires when an event occurs in a database. We can execute a SQL query that will "do something" in a database when a change occurs on a database table such as a record is inserted or updated or deleted.
 
-#### - Cursors
-* A cursor in SQL is a temporary work area created in system memory when a SQL statement is executed. A SQL cursor is a set of rows together with a pointer that identifies a current row. It is a database object to retrieve data from a result set one row at a time.
+#### Cursors
+- A cursor in SQL is a temporary work area created in system memory when a SQL statement is executed. A SQL cursor is a set of rows together with a pointer that identifies a current row. It is a database object to retrieve data from a result set one row at a time.
 
-#### - Error Handling
-* Error handling refers to the response and recovery procedures from error conditions present in a software application. It is the process comprised of anticipation, detection and resolution of application errors, programming errors or communication errors.
+#### Error Handling
+- Error handling refers to the response and recovery procedures from error conditions present in a software application. It is the process comprised of anticipation, detection and resolution of application errors, programming errors or communication errors.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
