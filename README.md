@@ -13,18 +13,18 @@
 **21th Feb to 25th Feb**
 ## Querying database
 In this week I learnt about various topics - 
-#### - Operator :
+#### Operator :
 * An operator is a reserved word or a character that is used to query our database in a SQL expression.
 * To query a database using operators, we use a WHERE clause. Operators are necessary to define a condition in SQL, as they act as a connector between two or more conditions.
 
-#### - Aggregate :
-  * SQL aggregation is the task of collecting a set of values to return a single value. 
-  * It is done with the help of aggregate functions, such as SUM, COUNT, and AVG.
+#### Aggregate :
+* SQL aggregation is the task of collecting a set of values to return a single value. 
+* It is done with the help of aggregate functions, such as SUM, COUNT, and AVG.
 
-#### - Joins :
+#### Joins :
 * SQL Join statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are as follows: INNER JOIN. LEFT JOIN, RIGHT JOIN etc.
 
-#### - Subquery : 
+#### Subquery : 
 * A Subquery is a query within another SQL query and embedded within the WHERE clause. A subquery is used to return data that will be used in the main query as a condition to further restrict the data to be retrieved.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -32,11 +32,11 @@ In this week I learnt about various topics -
 **28th Feb to 4th March**
 ## Data Warehouse and ETL
 Basic concepts of data warehose and etl were shared. Case study on same was provided to study.
-#### _ Data warehouse
+#### Data warehouse
 * A data warehouse is a central repository of information that can be analyzed to make more informed decisions. Data flows into a data warehouse from transactional systems, relational databases, and other sources, typically on a regular cadence.
 * The three main types of data warehouses are enterprise data warehouse (EDW), operational data store (ODS), and data mart.
 
-#### - ETL
+#### ETL
 * ETL is a type of data integration that refers to the three steps (extract, transform, load) used to blend data from multiple sources. It's often used to build a data warehouse.
 * ETL Data Warehouse process is used to load data from data sources to Data Warehouse in a common standard format. 
 * ETL tools break down data silos and make it easy for your data scientists to access and analyze data, and turn it into business intelligence. In short, ETL tools are the first essential step in the data warehousing process that eventually lets you make more informed decisions in less time.
