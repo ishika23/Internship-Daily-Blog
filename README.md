@@ -90,4 +90,30 @@ SSIS stands for SQL Server Integration Service. For its implementation we were m
 
 **4th April to 8th April**
 ## SSAS
+SSAS stands for SQL Server Analysis Service. Its implementation was also done on visual studio.
+- SSAS is Microsoft SQL Server's Analysis Services which is an online analytical processing (OLAP), data mining, and reporting tool used in Business Intelligence to make data work for end-users.
+- you can use SSAS to create cubes using data from data marts / data warehouse for deeper and faster data analysis.
+- SSAS Database is to analyze and predict data utilizing cubes and data mining Structures. Since different objects exist in these structures, it is important to discuss the SSAS Database Management.
+- SSAS operates on two major components :
+  * Business Intelligence Studio
+  * SQL Server data tools
+- We were taught various components of SSAS like cube designing, cube creation, performing action, deployment of cube etc.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**11th April to 15th April**
+## SSRS
+SSRS stands for SQL Server Reporting Service. Visual Studio was used for its implementation.
+- SSRS stands for SQL Server Reporting Services is a reporting software that allows you to produce formatted reports with tables in the form of data, graph, images, and charts. 
+- These reports are hosted on a server that can be executed any time using parameters defined by the users. 
+- Some components of SSRS are :
+  * Report Builder
+  * Report Designer
+  * Report Manager
+- SSRS offers faster processes of reports on both relational and multidimensional data.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**18th April to 22th April**
+## Power BI
 
