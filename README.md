@@ -116,4 +116,59 @@ SSRS stands for SQL Server Reporting Service. Visual Studio was used for its imp
 
 **18th April to 22th April**
 ## Power BI
+- Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
+- Your data may be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses.
+- Power BI provides cloud-based BI services, known as "Power BI Services", along with a desktop-based interface, called "Power BI Desktop". It offers data warehouse capabilities including data preparation, data discovery, and interactive dashboards.
+- Key components of Power BI are :
+  * Power BI desktop
+  * Power BI service
+  * Power BI Gateway
+  * Power BI Embedded
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**25th April to 29th April**
+## Azure
+- Azure is a huge collection of servers and networking hardware, which runs a complex set of distributed applications. These applications orchestrate the configuration and operation of virtualized hardware and software on those servers. 
+- Microsoft Azure, formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.
+- Azure offers boot-disk-only and full machine VMs where the cloud is boot-disk-only.
+- Azure provides Virtual network, which can be utilized to build isolated networks, subnets, route tables, private IP address range similar to AWS.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**2nd May to 6th May**
+## ADF-ADLS
+ADF stands for Azure Data Factory. 
+- Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management.
+- Azure Data Factory is a cloud-based ETL and data integration service to create workflows for moving and transforming data. With Data Factory you can create scheduled workflows (pipelines) in a code-free manner.
+- Azure Data Factory automates and orchestrates the entire data integration process from end to end, ensuring that users have a single pane of glass in their ETL data pipelines.
+- Azure Data Factory is a fully managed cloud-based data integration service that orchestrates and automates the movement and transformation of data. The key concept in the ADF model is pipeline.
+- Azure Data Factory (ADF) is a Microsoft Azure PaaS solution for data transformation and load. ADF supports data movement between many on premises and cloud data sources.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**9th May to 13th May**
+## Assignment
+In this week we were given assignment on SQL, SSIS and SSRS. Evaluation on the basis of assignment was done and our knowledge for azure and adf was also tested in that evaluation. Apart from that assessment for SSIS, SSRS, ADF also took place.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**16th May to 20th May**
+## Behavioural Sessions
+In this week we had behavioural sessions were we were taught how to conduct ourselves when talking to a client. How to write an email, basic business etiquettes and alot more were taught.
+Various activities were held where we had to perform certain tasks.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**22th May to 31st May**
+## Behavioural Sessions
+In this week we were taught how to give client interviews. Basic english was taught like verbs, prepositons and conjuctions. 
+Activities were held on basis of which we were evaluated.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
 
